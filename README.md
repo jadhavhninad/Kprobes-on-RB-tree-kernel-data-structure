@@ -1,5 +1,3 @@
-# CSE530_TEAM29
-
 1.To compile use :
 make
 
@@ -16,7 +14,8 @@ make
 4. TO remove the driver, run:
 ./exit_rb.sh
 
-
+Sample Output:
+`
 ASUAD\mahmad11@en4061184l:~/Downloads/CSE530_TEAM29$ ./rb_test
 Thread ID accessing the tree = 140464342124288
 Thread ID accessing the tree = 140464350516992
@@ -97,7 +96,7 @@ Reading maximum value : 93
 Read the tree of size : 16
 ALL THE TREE DATA : 
 83,35,92,21,62,86,93,15,27,49,77,90,26,40,59,63,
-
+`
 
 This program has been tested and worked correctly on Ubuntu Xenial 16.04 x86_64 OS
 
