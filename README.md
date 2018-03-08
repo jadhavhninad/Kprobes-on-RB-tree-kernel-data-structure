@@ -4,17 +4,17 @@ make
 (Note, even after passing the pthread flag, warnings are shown. Also for the kernel module, compiling for the first time shows warnings. After Recompiling warnings are not shown)
 
 2. to initialize the tree driver, use
-./init_rb.sh
+`./init_rb.sh`
 
 
 3.to run the test user program run,
-./rb_test
+`./rb_test`
 
 
 4. TO remove the driver, run:
-./exit_rb.sh
+`./exit_rb.sh`
 
-Sample Output:
+## [](header-2)Sample Output:
 `
 ASUAD\mahmad11@en4061184l:~/Downloads/CSE530_TEAM29$ ./rb_test
 Thread ID accessing the tree = 140464342124288
@@ -98,16 +98,18 @@ ALL THE TREE DATA :
 83,35,92,21,62,86,93,15,27,49,77,90,26,40,59,63,
 `
 
-This program has been tested and worked correctly on Ubuntu Xenial 16.04 x86_64 OS
+This program has been tested and worked correctly on Ubuntu Xenial 16.04 x86-64 OS
 
+`
 ASUAD\mahmad11@en4061184l:~/Downloads/CSE530_TEAM29$ uname -a 
 Linux en4061184l 4.10.0-35-generic #39~16.04.1-Ubuntu SMP Wed Sep 13 09:02:42 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+
 ASUAD\mahmad11@en4061184l:~/Downloads/CSE530_TEAM29$ lsb_release -a
 No LSB modules are available.
 Distributor ID:	Ubuntu
 Description:	Ubuntu 16.04.3 LTS
 Release:	16.04
 Codename:	xenial
-
+`
 
 
