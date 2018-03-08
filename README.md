@@ -1,17 +1,17 @@
-1.To compile use :
+1.   To compile use :
 make
 
 (Note, even after passing the pthread flag, warnings are shown. Also for the kernel module, compiling for the first time shows warnings. After Recompiling warnings are not shown)
 
-2. to initialize the tree driver, use
+2.   To initialize the tree driver, use
 `./init_rb.sh`
 
 
-3.to run the test user program run,
+3.   To run the test user program run,
 `./rb_test`
 
 
-4. TO remove the driver, run:
+4.   TO remove the driver, run:
 `./exit_rb.sh`
 
 ## [](header-2)Sample Output:
