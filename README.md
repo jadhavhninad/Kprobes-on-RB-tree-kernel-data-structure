@@ -15,7 +15,7 @@ make
 `./exit_rb.sh`
 
 ## [](header-2)Sample Output:
-`
+```
 ASUAD\mahmad11@en4061184l:~/Downloads/CSE530_TEAM29$ ./rb_test
 Thread ID accessing the tree = 140464342124288
 Thread ID accessing the tree = 140464350516992
@@ -96,11 +96,11 @@ Reading maximum value : 93
 Read the tree of size : 16
 ALL THE TREE DATA : 
 83,35,92,21,62,86,93,15,27,49,77,90,26,40,59,63,
-`
+```
 
 This program has been tested and worked correctly on Ubuntu Xenial 16.04 x86-64 OS
 
-`
+```
 ASUAD\mahmad11@en4061184l:~/Downloads/CSE530_TEAM29$ uname -a 
 Linux en4061184l 4.10.0-35-generic #39~16.04.1-Ubuntu SMP Wed Sep 13 09:02:42 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
 
@@ -110,6 +110,6 @@ Distributor ID:	Ubuntu
 Description:	Ubuntu 16.04.3 LTS
 Release:	16.04
 Codename:	xenial
-`
+```
 
 
